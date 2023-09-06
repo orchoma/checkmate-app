@@ -257,8 +257,6 @@ body{
     align-items: center;
     font-family: 'Bebas Neue', sans-serif;
     font-family: 'Raleway', sans-serif;
-    overflow: scroll;
-    border-radius: 50px;
     padding-left: 2rem;
 }
 
